@@ -8,6 +8,7 @@ Ping [@dorindanciu](https://twitter.com/dorindanciu) on Twitter, or reach out vi
 
 Location | Date | Conference
 ---------|------|------------
+Lugano, CH| April 17, 2018| [AppBuilders](https://appbuilders.ch) Lightning Talk
 🌍|📆|⁉️
 
 
@@ -15,7 +16,7 @@ Location | Date | Conference
 
 #### Jumpstarting localization using AppleGlot4
 
-Have you ever localized your app for all the languages supported in the iOS environment? How many times along your career have you seen the same string translated over and over again? Have you released an open source framework that you've wished it had more translations? Whit the right setup, AppleGlot can help you resolve all these issues.
+Have you ever localized your app for all the languages supported in the iOS environment? How many times along your career have you seen the same string translated over and over again? Have you released an open source framework that you've wished it had more translations? With the right setup, AppleGlot can help you resolve all these issues.
 
 
 ### Past Talks
@@ -36,7 +37,7 @@ Most of my slides and resources are hosted on Github under [keynotes repository]
 
 ### Bio
 
-> Dorin is an independent contractor dedicated to iOS mobile development. Since 2017 he runs Beilmo, an interactive studio that creates compelling mobile applications in Cluj-Napoca.
+> Dorin is an independent contractor dedicated to iOS mobile development. Since 2017 he runs [Beilmo](https://beilmo.com), an interactive studio that creates compelling mobile applications in Cluj-Napoca. He also writes *[technical] notes to his future self* on his [blog](https://blog.dorindanciu.com).
 
 
 ### Credits
